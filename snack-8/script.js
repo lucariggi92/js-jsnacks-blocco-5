@@ -27,6 +27,7 @@ const student = students.find(function(element){
     return true;
   }
   return false;
+  
 })
 
 console.log(student.class)
